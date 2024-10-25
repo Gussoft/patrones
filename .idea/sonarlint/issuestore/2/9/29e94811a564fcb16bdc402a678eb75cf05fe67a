@@ -1,0 +1,22 @@
+
+f	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü™°Û
+k	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§€×Şúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ñîã÷
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ãƒ½­üÿÿÿÿ
+C	java:S108")Either remove or fill this block of code.(‚üÃ²ûÿÿÿÿ
+4
+java:S2119$"Save and re-use this "Random".(–áÍÈ
+D
+java:S1874*".Remove this use of "divide"; it is deprecated.(Ä€ƒØ
+M
+java:S1874*"7Remove this use of "ROUND_HALF_EVEN"; it is deprecated.(Ä€ƒØ
+C
+java:S1172-"-Remove this unused method parameter "seguro".(¢ÅıÄ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(ı£Í½
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(áĞµ±üÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(«³šÃøÿÿÿÿ
+L
+java:S11729"6Remove these unused method parameters "seguro", "day".(Ï˜½·
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(ï÷¥Ûüÿÿÿÿ
+J
+java:S1144"/Remove this unused private "buyTarjeta" method.(«Éâîıÿÿÿÿ

@@ -1,0 +1,11 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(æŞ‡Šùÿÿÿÿ8¤Ì ª1
+g
+java:S2259!"EA "NullPointerException" could be thrown; "account" is nullable here.(‚üŒçıÿÿÿÿ8ÀÌ ª1
+n
+java:S20954"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(˜ñ€­ùÿÿÿÿ8ÀÌ ª1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ë±Ä>8ÃÌ ª1
+f
+java:S1858!"D"e" is already a string, there's no need to call "toString()" on it.(‚üŒçıÿÿÿÿ8‡é ª1
+c	java:S8990"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ8ÅÌ ª1
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ8ÆÌ ª1
